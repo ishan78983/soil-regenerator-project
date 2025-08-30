@@ -110,7 +110,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # --- Backend API URL ---
-API_URL = "http://127.0.0.1:8000"
+API_URL = " https://soil-api-02a6.onrender.com"
 
 # --- Sidebar Inputs ---
 with st.sidebar:
